@@ -1,0 +1,2 @@
+com/natorcomputing/pillagerbot/Pillagerbot.java
+ com.natorcomputing.pillagerbot.Pillagerbot

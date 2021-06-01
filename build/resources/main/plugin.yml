@@ -1,0 +1,4 @@
+name: Pillagerbot
+version: ${project.version}
+main: com.natorcomputing.pillagerbot.Pillagerbot
+api-version: 1.16
